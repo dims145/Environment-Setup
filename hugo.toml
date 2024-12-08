@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Environment Setup'
 theme = 'hugo-book'
 
+# (Optional) Set this to true if you use capital letters in file names
+disablePathToLower = true
+
 [params]
     # (Optional, default light) Sets color theme: light, dark or auto.
     # Theme 'auto' switches between dark and light modes based on browser/os preferences
